@@ -30,6 +30,11 @@ author_profile: true
 
 
 ## Invited Seminars and Talks
+
+“Experimental overview of neutrinos”, Neutrinos and related New Physics Research (NuPhyR), Zhuhai, Guangzhou. November 29 2025 
+
+“JUNO Status”, HEPiX Fall 2025 Workshop, Lanzhou. November 3 2025
+
 “Measurements of the Cosmic Ray Nuclei with the Alpha Magnetic Spectrometer (AMS)”, the Center for Nuclear Astrophysics across Messengers (CeNAM) Frontiers in Nuclear Astrophysics Meeting, Michigan State University, East Lansing. May 25 2023
 
 “Time variations of cosmic ray particles measured by AMS”, Space and Cosmic Ray Physics online Seminar at University of Maryland. October 17 2022
