@@ -12,13 +12,9 @@ redirect_from:
 
 JUNO is a large-scale neutrino experiment located in Jiangmen, Guangdong Province, China. Its main design goal is to determine the neutrino mass ordering through precise measurements of reactor neutrino oscillations, while also probing new physics through the detection of supernova and solar neutrinos. The experiment is scheduled to begin data-taking in August 2025 and is expected to operate for approximately 30 years.
 
-* JUNO under construction in June 2023 
+* Precision Measurements of Neutrino Oscillation Parameters
 
-<img src="../images/juno0.png" alt="Figure caption" style="width:450px;" />
-
-* Introduction
-
-<img src="../images/juno1.png" alt="Figure caption" style="width:750px;" />
+<img src="../images/first_physics_result.png" alt="Figure caption" style="width:750px;" />
 
 * Study of Supernova in the Era of Multi-Messenger Astronomy
 
@@ -27,6 +23,14 @@ JUNO is a large-scale neutrino experiment located in Jiangmen, Guangdong Provinc
 * Diffuse Supernova Neutrino Background (or Supernova Relic Neutrinos)
 
 <img src="../images/juno3.png" alt="Figure caption" style="width:750px;" />
+
+* Introduction
+
+<img src="../images/juno1.png" alt="Figure caption" style="width:750px;" />
+
+* JUNO under construction in June 2023 
+
+<img src="../images/juno0.png" alt="Figure caption" style="width:450px;" />
 
 ## Alpha Magnetic Spectrometer (AMS)
 
